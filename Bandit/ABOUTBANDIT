@@ -1,1 +1,15 @@
 Bandit is a wargame that is aimed for those that are absolute beginners. It will help educate and teach you the basics for you to play the other wargames overthewire has to offer.
+
+
+What will be needed? 
+
+- Putty
+- Putty tools 
+- A good connection
+
+Once you have putty installed, connect via SSH with the following connection:
+
+bandit.labs.overthewire.org
+Port: 2220
+
+Your goal is to continue through the levels with each username and finding the password for each. 
