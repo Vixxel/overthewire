@@ -1,0 +1,15 @@
+For this section we have our password and username for bandit1. Now we want to find the password for Bandit2. 
+
+We start off logging in.
+
+Username: bandit1
+Password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+
+This is relatively simple.
+
+(1) ls
+we see a simple " - "
+
+by doing cat <- it will give us the password for the next level. 
+
+Password: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
