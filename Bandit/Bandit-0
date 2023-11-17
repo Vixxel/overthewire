@@ -1,0 +1,15 @@
+Bandit0 is the lowest and easiest level.
+
+Username: Bandit0
+Password: Bandit0
+
+Your goal is to find the password to enter Bandit1
+
+Once you are logged in, simply do the following command 
+
+(1) ls
+(2) cat readme
+
+By doing both of those commands you will see the password that is needed to login for the username "bandit1"
+
+password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
